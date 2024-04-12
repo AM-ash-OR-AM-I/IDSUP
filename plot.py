@@ -26,7 +26,7 @@ def bernauli_trail(p):
 
 
 def binomial(n, p):
-    return sum(bernauli_trail(p) for i in range(p))
+    return sum(bernauli_trail(p) for i in range(n))
 
 
 x_coords = [x / 200 for x in range(-1000, 1000)]
