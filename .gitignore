@@ -2,3 +2,5 @@
 *.pdf
 *.png
 grade_plot.ipynb
+interview_question.ipynb
+/happiness_analysis/curve_of_life.ipynb

@@ -1,8 +1,8 @@
 import math
 
 from data import *
+from intro.variance import covariance
 from q4 import mean
-from variance import covariance
 
 
 def variance(marks):
